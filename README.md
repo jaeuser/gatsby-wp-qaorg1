@@ -1,7 +1,7 @@
 # Pantheon Decoupled Kit Gatsby WordPress Starter
 
-## Gatsby Project setup
-
+## Gatsby Project setup 
+ 
 1. Clone this repo:
 
 ```bash
