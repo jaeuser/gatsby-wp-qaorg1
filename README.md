@@ -1,4 +1,4 @@
-# Pantheon Decoupled Kit Gatsby WordPress Starter 2
+# Pantheon Decoupled Kit Gatsby WordPress Starter 23
 
 ## Gatsby Project setup ok
 
